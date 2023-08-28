@@ -16,8 +16,8 @@
 
 > 作者笔记
 > 
-> 在 Remedy Entertainment，我们绝对 :heart: 是美元！我们甚至谈到了如何使用它来制作 AAA 级游戏！
+> 在 Remedy Entertainment，我们绝对是 :heart: USD！我们甚至谈到了如何使用它来制作 AAA 级游戏！
 > 
-> 在上述演示之后，我们被要求公开发布关于美元本身的内部文档，因为我们编写了 [官方的USD词汇表](https://graphics.pixar.com/usd/release/glossary.html) 的更简化子集。这本书是文档，尽管经过清理，重写和调整以兼容。
+> 在上述演示之后，我们被要求公开发布关于USD本身的内部文档，因为我们编写了 [官方的USD词汇表](https://graphics.pixar.com/usd/release/glossary.html) 的更简化子集。这本书是文档，尽管经过清理，重写和调整以兼容。
 > 
 > 我们以宽松的许可证发布此版本，因此您可以根据需要自由分叉/复制/更改本书的版本。
