@@ -9,6 +9,6 @@
     * [获取USD](usd_book/getting_usd)
   * [USD术语](usd_book/terminology/terminology)
     * [Prims（基元）](usd_book/terminology/prims)
-    * [Properties（基元）](usd_book/terminology/properties)
+    * [Properties（属性）](usd_book/terminology/properties)
 * **Sins系统USD案例**
   * [资产变体](sins_sys/asset_variant)
